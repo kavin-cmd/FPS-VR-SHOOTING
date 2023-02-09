@@ -20,3 +20,5 @@ Enemies would not shoot at players(fixed),
 Project Assets downloaded from :
 1) https://assetstore.unity.com/packages/3d/props/polygon-starter-pack-low-poly-3d-art-by-synty-156819
 2) https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696
+
+this is my virtual reality class final project
