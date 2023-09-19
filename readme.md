@@ -1,11 +1,3 @@
-Names:
-Kavin Parikh
-
-Pictures of Creators:
-
-Kavin
-![WIN_20221019_21_06_15_Pro](https://user-images.githubusercontent.com/57449666/206822697-caf6ab67-0a0b-4f5a-afdb-58ee114998c6.jpg)
-
 
 Short Description:
 made a Shooting Game, where you shoot the red targets for points, and see how many points you can get in 2 minutes,
